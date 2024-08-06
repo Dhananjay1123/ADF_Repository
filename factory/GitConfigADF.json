@@ -1,0 +1,9 @@
+{
+	"name": "GitConfigADF",
+	"location": "australiasoutheast",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "243312d9-1269-4f92-a74c-0b2e6e3517f6",
+		"tenantId": "559be3ea-f91e-404c-b417-bd5f18af4f92"
+	}
+}
